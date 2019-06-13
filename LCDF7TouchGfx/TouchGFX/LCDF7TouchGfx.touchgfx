@@ -1,0 +1,144 @@
+{
+  "Application": {
+    "Screens": [
+      {
+        "Components": [
+          {
+            "RelativeFilename": "background.png",
+            "Alpha": 255,
+            "Name": "image1",
+            "X": 0,
+            "Y": 0,
+            "Width": 480,
+            "Height": 272,
+            "Type": "Image",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "Pressed": "modsize_pressed.png",
+            "Released": "modsize.png",
+            "Alpha": 255,
+            "Name": "button1",
+            "X": 0,
+            "Y": 240,
+            "Width": 91,
+            "Height": 32,
+            "Type": "Button",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "Pressed": "modsize_pressed.png",
+            "Released": "modsize.png",
+            "Alpha": 255,
+            "Name": "button1_1",
+            "X": 91,
+            "Y": 240,
+            "Width": 91,
+            "Height": 32,
+            "Type": "Button",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "Pressed": "modsize_pressed.png",
+            "Released": "modsize.png",
+            "Alpha": 255,
+            "Name": "button1_2",
+            "X": 182,
+            "Y": 240,
+            "Width": 91,
+            "Height": 32,
+            "Type": "Button",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "Pressed": "modsize_pressed.png",
+            "Released": "modsize.png",
+            "Alpha": 255,
+            "Name": "button1_3",
+            "X": 273,
+            "Y": 240,
+            "Width": 91,
+            "Height": 32,
+            "Type": "Button",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "Pressed": "modsize_pressed.png",
+            "Released": "modsize.png",
+            "Alpha": 255,
+            "Name": "button1_4",
+            "X": 364,
+            "Y": 240,
+            "Width": 91,
+            "Height": 32,
+            "Type": "Button",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          }
+        ],
+        "Interactions": [],
+        "Name": "Screen1",
+        "OverrideDefaultBufferSize": false,
+        "CanvasBufferSize": 0
+      }
+    ],
+    "CustomContainerDefinitions": [],
+    "Name": "MyApplication",
+    "Resolution": {
+      "Width": 480,
+      "Height": 272
+    },
+    "SelectedColorDepth": 16,
+    "StartupScreenName": "Screen1",
+    "SelectedStartupLanguage": "GB",
+    "Skin": "Blue",
+    "TouchGfxPath": "../Middlewares/ST/TouchGFX/touchgfx/",
+    "UIPath": ".",
+    "ApplicationTemplate": {
+      "Name": "Simulator",
+      "Version": "1.0.0",
+      "Description": "STM32CubeMX Generated Simulator Application Template",
+      "AvailableColorDepths": [
+        16
+      ],
+      "AvailableImageFormats": {
+        "16": {
+          "Opaque": "RGB565",
+          "NonOpaque": "ARGB8888"
+        }
+      },
+      "AvailableResolutions": [],
+      "PhysicalButtons": [],
+      "GenerateAssetsCommand": "make -f simulator/gcc/Makefile assets -j10",
+      "PostGenerateCommand": "echo test",
+      "CompileSimulatorCommand": "make -f simulator/gcc/Makefile -j10",
+      "RunSimulatorCommand": "build\\bin\\simulator.exe",
+      "CompileTargetCommand": "",
+      "FlashTargetCommand": ""
+    }
+  },
+  "Version": "4.10.0"
+}
