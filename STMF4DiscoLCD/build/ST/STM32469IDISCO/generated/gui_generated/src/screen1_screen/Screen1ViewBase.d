@@ -42,31 +42,10 @@ build/ST/STM32469IDISCO/generated/gui_generated/src/screen1_screen/Screen1ViewBa
  gui/include/gui/model/Model.hpp \
  gui/include/gui/screen1_screen/Screen1Presenter.hpp \
  gui/include/gui/model/ModelListener.hpp \
- touchgfx//framework/include/touchgfx/widgets/Box.hpp \
+ touchgfx//framework/include/touchgfx/widgets/Image.hpp \
  touchgfx//framework/include/touchgfx/widgets/Widget.hpp \
  touchgfx//framework/include/touchgfx/widgets/Button.hpp \
  touchgfx//framework/include/touchgfx/widgets/AbstractButton.hpp \
- touchgfx//framework/include/touchgfx/containers/progress_indicators/CircleProgress.hpp \
- touchgfx//framework/include/touchgfx/containers/progress_indicators/AbstractProgressIndicator.hpp \
- touchgfx//framework/include/touchgfx/widgets/Image.hpp \
- touchgfx//framework/include/touchgfx/widgets/canvas/Circle.hpp \
- touchgfx//framework/include/touchgfx/widgets/canvas/Canvas.hpp \
- touchgfx//framework/include/touchgfx/transforms/DisplayTransformation.hpp \
- touchgfx//framework/include/touchgfx/widgets/canvas/CWRUtil.hpp \
- touchgfx//framework/include/touchgfx/canvas_widget_renderer/Rasterizer.hpp \
- touchgfx//framework/include/touchgfx/canvas_widget_renderer/Outline.hpp \
- touchgfx//framework/include/touchgfx/canvas_widget_renderer/Cell.hpp \
- touchgfx//framework/include/touchgfx/canvas_widget_renderer/Renderer.hpp \
- touchgfx//framework/include/touchgfx/canvas_widget_renderer/RenderingBuffer.hpp \
- touchgfx//framework/include/touchgfx/canvas_widget_renderer/Scanline.hpp \
- touchgfx//framework/include/touchgfx/canvas_widget_renderer/CanvasWidgetRenderer.hpp \
- touchgfx//framework/include/touchgfx/widgets/canvas/AbstractPainter.hpp \
- touchgfx//framework/include/touchgfx/widgets/canvas/CanvasWidget.hpp \
- touchgfx//framework/include/touchgfx/widgets/canvas/AbstractPainterRGB565.hpp \
- touchgfx//framework/include/touchgfx/widgets/canvas/PainterRGB888Bitmap.hpp \
- touchgfx//framework/include/touchgfx/widgets/canvas/AbstractPainterRGB888.hpp \
- touchgfx//framework/include/touchgfx/containers/Slider.hpp \
- touchgfx//framework/include/touchgfx/Color.hpp \
  generated/images/include/BitmapDatabase.hpp
 
 generated/gui_generated/include/gui_generated/screen1_screen/Screen1ViewBase.hpp:
@@ -153,54 +132,12 @@ gui/include/gui/screen1_screen/Screen1Presenter.hpp:
 
 gui/include/gui/model/ModelListener.hpp:
 
-touchgfx//framework/include/touchgfx/widgets/Box.hpp:
+touchgfx//framework/include/touchgfx/widgets/Image.hpp:
 
 touchgfx//framework/include/touchgfx/widgets/Widget.hpp:
 
 touchgfx//framework/include/touchgfx/widgets/Button.hpp:
 
 touchgfx//framework/include/touchgfx/widgets/AbstractButton.hpp:
-
-touchgfx//framework/include/touchgfx/containers/progress_indicators/CircleProgress.hpp:
-
-touchgfx//framework/include/touchgfx/containers/progress_indicators/AbstractProgressIndicator.hpp:
-
-touchgfx//framework/include/touchgfx/widgets/Image.hpp:
-
-touchgfx//framework/include/touchgfx/widgets/canvas/Circle.hpp:
-
-touchgfx//framework/include/touchgfx/widgets/canvas/Canvas.hpp:
-
-touchgfx//framework/include/touchgfx/transforms/DisplayTransformation.hpp:
-
-touchgfx//framework/include/touchgfx/widgets/canvas/CWRUtil.hpp:
-
-touchgfx//framework/include/touchgfx/canvas_widget_renderer/Rasterizer.hpp:
-
-touchgfx//framework/include/touchgfx/canvas_widget_renderer/Outline.hpp:
-
-touchgfx//framework/include/touchgfx/canvas_widget_renderer/Cell.hpp:
-
-touchgfx//framework/include/touchgfx/canvas_widget_renderer/Renderer.hpp:
-
-touchgfx//framework/include/touchgfx/canvas_widget_renderer/RenderingBuffer.hpp:
-
-touchgfx//framework/include/touchgfx/canvas_widget_renderer/Scanline.hpp:
-
-touchgfx//framework/include/touchgfx/canvas_widget_renderer/CanvasWidgetRenderer.hpp:
-
-touchgfx//framework/include/touchgfx/widgets/canvas/AbstractPainter.hpp:
-
-touchgfx//framework/include/touchgfx/widgets/canvas/CanvasWidget.hpp:
-
-touchgfx//framework/include/touchgfx/widgets/canvas/AbstractPainterRGB565.hpp:
-
-touchgfx//framework/include/touchgfx/widgets/canvas/PainterRGB888Bitmap.hpp:
-
-touchgfx//framework/include/touchgfx/widgets/canvas/AbstractPainterRGB888.hpp:
-
-touchgfx//framework/include/touchgfx/containers/Slider.hpp:
-
-touchgfx//framework/include/touchgfx/Color.hpp:
 
 generated/images/include/BitmapDatabase.hpp:
