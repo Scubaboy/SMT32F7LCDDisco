@@ -6,7 +6,7 @@ ST-LINK SN: 0672FF575251717867092151
 ST-LINK Firmware version: V2J31M21
 Connected via SWD.
 SWD Frequency = 4000K.
-Target voltage = 3.1 V
+Target voltage = 3.2 V
 Connection mode: Normal
 Reset mode: Hardware reset
 Device ID: 0x434 
@@ -23,8 +23,8 @@ Flash Programming:
   Device Size          : 0x01000000
   Device Type          : Nor Flash
 Memory programming...
-北北北北北北北北北北北北北北北北北北北北北北北北北 0% 0%圹圹圹圹圹圹圹圹圹圹 40%圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹 100%
-Memory programmed in 2s and 937ms.
+北北北北北北北北北北北北北北北北北北北北北北北北北 0% 0%圹圹圹圹圹 21%圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹圹 100%
+Memory programmed in 5s and 828ms.
 Programming Complete.
 
 MCU Reset.

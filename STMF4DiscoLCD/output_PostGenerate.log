@@ -39,6 +39,31 @@
   <FilePath>../../generated/images/src/__designer/blue_buttons_round_edge_small_pressed.cpp</FilePath>
 </File>
 <File>
+  <FileName>blue_progressindicators_bg_medium_circle_indicator_bg_full.cpp</FileName>
+  <FileType>8</FileType>
+  <FilePath>../../generated/images/src/__designer/blue_progressindicators_bg_medium_circle_indicator_bg_full.cpp</FilePath>
+</File>
+<File>
+  <FileName>blue_progressindicators_fill_medium_circle_indicator_fill_full.cpp</FileName>
+  <FileType>8</FileType>
+  <FilePath>../../generated/images/src/__designer/blue_progressindicators_fill_medium_circle_indicator_fill_full.cpp</FilePath>
+</File>
+<File>
+  <FileName>blue_slider_horizontal_large_indicators_slider_round_nob.cpp</FileName>
+  <FileType>8</FileType>
+  <FilePath>../../generated/images/src/__designer/blue_slider_horizontal_large_indicators_slider_round_nob.cpp</FilePath>
+</File>
+<File>
+  <FileName>blue_slider_horizontal_large_slider_round_back.cpp</FileName>
+  <FileType>8</FileType>
+  <FilePath>../../generated/images/src/__designer/blue_slider_horizontal_large_slider_round_back.cpp</FilePath>
+</File>
+<File>
+  <FileName>blue_slider_horizontal_large_slider_round_fill.cpp</FileName>
+  <FileType>8</FileType>
+  <FilePath>../../generated/images/src/__designer/blue_slider_horizontal_large_slider_round_fill.cpp</FilePath>
+</File>
+<File>
   <FileName>Font_verdana_10_4bpp.cpp</FileName>
   <FileType>8</FileType>
   <FilePath>../../generated/fonts/src/font_verdana_10_4bpp.cpp</FilePath>

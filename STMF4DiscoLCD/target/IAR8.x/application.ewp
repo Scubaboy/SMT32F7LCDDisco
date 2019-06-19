@@ -1115,6 +1115,21 @@
           <file>
             <name>$PROJ_DIR$\..\..\generated\images\src\__designer\blue_buttons_round_edge_small_pressed.cpp</name>
           </file>
+          <file>
+            <name>$PROJ_DIR$\..\..\generated\images\src\__designer\blue_progressindicators_bg_medium_circle_indicator_bg_full.cpp</name>
+          </file>
+          <file>
+            <name>$PROJ_DIR$\..\..\generated\images\src\__designer\blue_progressindicators_fill_medium_circle_indicator_fill_full.cpp</name>
+          </file>
+          <file>
+            <name>$PROJ_DIR$\..\..\generated\images\src\__designer\blue_slider_horizontal_large_indicators_slider_round_nob.cpp</name>
+          </file>
+          <file>
+            <name>$PROJ_DIR$\..\..\generated\images\src\__designer\blue_slider_horizontal_large_slider_round_back.cpp</name>
+          </file>
+          <file>
+            <name>$PROJ_DIR$\..\..\generated\images\src\__designer\blue_slider_horizontal_large_slider_round_fill.cpp</name>
+          </file>
         </group>
         <file>
           <name>$PROJ_DIR$\..\..\generated\images\src\BitmapDatabase.cpp</name>
