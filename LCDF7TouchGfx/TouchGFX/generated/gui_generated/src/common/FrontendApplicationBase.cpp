@@ -7,8 +7,8 @@
 #include <touchgfx/transitions/NoTransition.hpp>
 #include <texts/TextKeysAndLanguages.hpp>
 #include <touchgfx/Texts.hpp>
-#include <gui/screen1_screen/Screen1View.hpp>
-#include <gui/screen1_screen/Screen1Presenter.hpp>
+#include <gui/main_screen/mainView.hpp>
+#include <gui/main_screen/mainPresenter.hpp>
 
 using namespace touchgfx;
 
@@ -19,22 +19,22 @@ FrontendApplicationBase::FrontendApplicationBase(Model& m, FrontendHeap& heap)
       frontendHeap(heap),
       model(m)
 {
-
+    Texts::setLanguage(GB);
 }
 
 /*
  * Screen Transition Declarations
  */
-// Screen1
+// main
 
-void FrontendApplicationBase::gotoScreen1ScreenNoTransition()
+void FrontendApplicationBase::gotomainScreenNoTransition()
 {
-    transitionCallback = touchgfx::Callback<FrontendApplicationBase>(this, &FrontendApplication::gotoScreen1ScreenNoTransitionImpl);
+    transitionCallback = touchgfx::Callback<FrontendApplicationBase>(this, &FrontendApplication::gotomainScreenNoTransitionImpl);
     pendingScreenTransitionCallback = &transitionCallback;
 }
 
-void FrontendApplicationBase::gotoScreen1ScreenNoTransitionImpl()
+void FrontendApplicationBase::gotomainScreenNoTransitionImpl()
 {
-    makeTransition<Screen1View, Screen1Presenter, touchgfx::NoTransition, Model >(&currentScreen, &currentPresenter, frontendHeap, &currentTransition, &model);
+    makeTransition<mainView, mainPresenter, touchgfx::NoTransition, Model >(&currentScreen, &currentPresenter, frontendHeap, &currentTransition, &model);
 }
 

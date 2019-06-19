@@ -7,12 +7,14 @@
 
 typedef enum
 {
+    GB,
     NUMBER_OF_LANGUAGES
 } LANGUAGES;
 
 
 typedef enum
 {
+    T_DIGITAL_CLOCK,
     NUMBER_OF_TEXT_KEYS
 } TEXTS;
 

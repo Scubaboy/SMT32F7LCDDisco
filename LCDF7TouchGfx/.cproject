@@ -125,13 +125,13 @@
 					</folderInfo>
 					<fileInfo id="com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.84951787.372965953" name="SDL2TouchController.hpp" rcbsApplicability="disable" resourcePath="Middlewares/ST/TouchGFX/touchgfx/framework/include/platform/driver/touch/SDL2TouchController.hpp" toolsToInvoke=""/>
 					<sourceEntries>
-						<entry flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name="Components"/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Components"/>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Drivers"/>
 						<entry excluding="ST/TouchGFX/touchgfx/framework/source/platform/driver/touch/SDL2TouchController.cpp|ST/TouchGFX/touchgfx/framework/include/platform/hal/simulator|ST/TouchGFX/touchgfx/framework/source/platform/hal/simulator|ST/TouchGFX/touchgfx/framework/include/platform/driver/touch/SDL2TouchController.hpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Middlewares"/>
-						<entry flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name="STM32746G-Discovery"/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="STM32746G-Discovery"/>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Src"/>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Startup"/>
-						<entry excluding="simulator" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="TouchGFX"/>
+						<entry excluding="touchgfx/framework/source/platform/hal/simulator|simulator" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="TouchGFX"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>

@@ -8,28 +8,26 @@ class FrontendHeap : public FrontendHeapBase
 public:
     /* List any user-defined view types here*/
     typedef meta::TypeList< meta::Nil, //Replace this with first user-defined type
-                            meta::Nil  //List must always end with meta::Nil !
-                            > UserDefinedViewTypes;
+            meta::Nil  //List must always end with meta::Nil !
+            > UserDefinedViewTypes;
 
     /* List any user-defined presenter types here*/
     typedef meta::TypeList< meta::Nil, //Replace this with first user-defined type
-                            meta::Nil  //List must always end with meta::Nil !
-                            > UserDefinedPresenterTypes;
+            meta::Nil  //List must always end with meta::Nil !
+            > UserDefinedPresenterTypes;
 
     /* List any user-defined transition types here*/
     typedef meta::TypeList< meta::Nil, //Replace this with first user-defined type
-                            meta::Nil  //List must always end with meta::Nil !
-                            > UserDefinedTransitionTypes;
-
-
+            meta::Nil  //List must always end with meta::Nil !
+            > UserDefinedTransitionTypes;
 
     /* Calculate largest view, both from generated and user-defined typelists */
     typedef meta::select_type_maxsize< UserDefinedViewTypes >::type MaxUserViewType;
 
     typedef meta::TypeList< MaxGeneratedViewType,
             meta::TypeList< MaxUserViewType,
-                            meta::Nil
-                            > > CombinedViewTypes;
+            meta::Nil
+            > > CombinedViewTypes;
 
     typedef meta::select_type_maxsize< CombinedViewTypes >::type MaxViewType;
 
@@ -38,8 +36,8 @@ public:
 
     typedef meta::TypeList< MaxGeneratedPresenterType,
             meta::TypeList< MaxUserPresenterType,
-                            meta::Nil
-                            > > CombinedPresenterTypes;
+            meta::Nil
+            > > CombinedPresenterTypes;
     typedef meta::select_type_maxsize< CombinedPresenterTypes >::type MaxPresenterType;
 
     /* Calculate largest transition, both from generated and user-defined typelists */
@@ -47,8 +45,8 @@ public:
 
     typedef meta::TypeList< MaxGeneratedTransitionType,
             meta::TypeList< MaxUserTransitionType,
-                            meta::Nil
-                            > > CombinedTransitionTypes;
+            meta::Nil
+            > > CombinedTransitionTypes;
     typedef meta::select_type_maxsize< CombinedTransitionTypes >::type MaxTransitionType;
 
     static FrontendHeap& getInstance()
@@ -65,7 +63,7 @@ public:
 
 private:
     FrontendHeap() : FrontendHeapBase(presenters, views, transitions, app),
-                     app(model, *this)
+        app(model, *this)
     {
         gotoStartScreen(app);
     }

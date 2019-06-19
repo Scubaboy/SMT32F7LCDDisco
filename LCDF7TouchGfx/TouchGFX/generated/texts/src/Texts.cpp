@@ -15,11 +15,12 @@ touchgfx::LCD::DrawStringFunctionPointer touchgfx::LCD::drawStringFunction = &to
 touchgfx::TextProvider::UnicodeConverterInitFunctionPointer touchgfx::TextProvider::unicodeConverterInitFunction = static_cast<touchgfx::TextProvider::UnicodeConverterInitFunctionPointer>(0);
 touchgfx::TextProvider::UnicodeConverterFunctionPointer touchgfx::TextProvider::unicodeConverterFunction = static_cast<touchgfx::TextProvider::UnicodeConverterFunctionPointer>(0);
 
+extern const touchgfx::Unicode::UnicodeChar* const textsGb[];
 
 TEXT_LOCATION_FLASH_PRAGMA
 const touchgfx::Unicode::UnicodeChar* const* const languagesArray[] TEXT_LOCATION_FLASH_ATTRIBUTE =
 {
-    0
+    textsGb
 };
 
 touchgfx::LanguageId touchgfx::Texts::currentLanguage = static_cast<touchgfx::LanguageId>(0);

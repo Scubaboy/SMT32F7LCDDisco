@@ -1,13 +1,5 @@
-###############################################################################
-# This file is part of the ST-TouchGFX 4.9.3 distribution.
-# Copyright (C) 2017 Draupner Graphics A/S <http://www.touchgfx.com>.
-###############################################################################
-# This is licensed software. Any use hereof is restricted by and subject to the
-# applicable license terms. For further information see "About/Legal Notice"
-# in ST-TouchGFX Designer or in your ST-TouchGFX installation directory.
-###############################################################################
 # Relative location of the TouchGFX framework from root of application
-touchgfx_path := ../Middlewares/ST/TouchGFX/touchgfx//
+touchgfx_path := touchgfx/
 
 # Optional additional compiler flags
 user_cflags := -DUSE_BPP=16
@@ -21,7 +13,7 @@ non_opaque_image_format := ARGB8888
 
 # Settings for image converter screen orientation (empty string =
 # default value, -rotate90 rotates the image 90 degrees)
-screen_orientation :=
+screen_orientation := rotate90
 
 # Settings for Hardware accelerated text rendering on STM32F4 and F7
 # devices. Must correspond to value of bitsPerPixel for font to have
@@ -33,5 +25,6 @@ text_data_format := A4
 # Setting for the textconverter. Identical texts across all languages
 # are mapped to the same memory region to save internal flash memory
 remap_identical_texts := yes
+
 # Location of the TouchGFX Environment
 touchgfx_env := D:/TouchGFX/4.10.0/env

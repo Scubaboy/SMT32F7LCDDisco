@@ -6,9 +6,13 @@
 #include <touchgfx/hal/Types.hpp>
 #include <touchgfx/Bitmap.hpp>
 
-const uint16_t BITMAP_BACKGROUND_ID = 0; // Size: 480x272 pixels
-const uint16_t BITMAP_MODSIZE_ID = 1; // Size: 91x32 pixels
-const uint16_t BITMAP_MODSIZE_PRESSED_ID = 2; // Size: 91x32 pixels
+const uint16_t BITMAP_BACKGROUND_ID = 0; // Size: 94x88 pixels
+const uint16_t BITMAP_CLOCK_00_BACKGROUND_ID = 1; // Size: 233x243 pixels
+const uint16_t BITMAP_CLOCK_00_HOUR_HAND_ID = 2; // Size: 5x45 pixels
+const uint16_t BITMAP_CLOCK_00_MINUTE_HAND_ID = 3; // Size: 5x65 pixels
+const uint16_t BITMAP_CLOCK_00_SECOND_HAND_ID = 4; // Size: 9x103 pixels
+const uint16_t BITMAP_MODSIZE_ID = 5; // Size: 91x32 pixels
+const uint16_t BITMAP_MODSIZE_PRESSED_ID = 6; // Size: 91x32 pixels
 
 namespace BitmapDatabase
 {
