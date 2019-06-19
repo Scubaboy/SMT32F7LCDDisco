@@ -1,0 +1,31 @@
+Converting images
+STM32 ST-LINK CLI v3.5.0.0
+STM32 ST-LINK Command Line Interface
+
+ST-LINK SN: 0672FF575251717867092151
+ST-LINK Firmware version: V2J31M21
+Connected via SWD.
+SWD Frequency = 4000K.
+Target voltage = 0.0 V
+Connection mode: Normal
+Reset mode: Hardware reset
+Device ID: 0x434 
+Device flash Size: 2048 Kbytes
+Device family: STM32F469x/F479x
+
+Loading file...
+Flash Programming:
+  File : build/bin/target.hex
+  Address : 0x08000000
+  External Loader File : C:\Program Files (x86)\STMicroelectronics\STM32 ST-LINK Utility\ST-LINK Utility\ExternalLoader\N25Q128A_STM32469I-DISCO.stldr
+  Device Name          : N25Q128A_STM32469I-DISCO
+  Device Start Address : 0x90000000
+  Device Size          : 0x01000000
+  Device Type          : Nor Flash
+Memory programming...
+±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±± 0% 0%€ 3%€€€€€€€€€€ 23%€€€€€€€€€€ 43%€€€€€€€€€€ 63%€€€€€€€€€€€ 84%€€€€€€€€ 100%
+Memory programmed in 20s and 578ms.
+Programming Complete.
+
+MCU Reset.
+
