@@ -1,6 +1,6 @@
 /Debug/
 /Release/
 /.settings
-/.log
-/.elf
-/.elf.launch
+.log
+.elf
+.elf.launch
