@@ -47,7 +47,7 @@ build/ST/STM32469IDISCO/target/bsp/source/bsp/OTM8009TouchController.o: \
  target/bsp/source/vendor/STM32469I-Discovery/stm32469i_discovery_ts.h \
  target/bsp/source/vendor/STM32469I-Discovery/stm32469i_discovery_lcd.h \
  target/bsp/source/vendor/STM32469I-Discovery/../Components/ft6x06/ft6x06.h \
- target/bsp/source/vendor/STM32469I-Discovery/../Components/ft6x06/../Common/ts.h
+ d:\git\stm32\stmf4discolcd\target\bsp\source\vendor\components\common\ts.h
 
 target/bsp/include/bsp/OTM8009TouchController.hpp:
 
@@ -143,4 +143,4 @@ target/bsp/source/vendor/STM32469I-Discovery/stm32469i_discovery_lcd.h:
 
 target/bsp/source/vendor/STM32469I-Discovery/../Components/ft6x06/ft6x06.h:
 
-target/bsp/source/vendor/STM32469I-Discovery/../Components/ft6x06/../Common/ts.h:
+d:\git\stm32\stmf4discolcd\target\bsp\source\vendor\components\common\ts.h:

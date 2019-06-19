@@ -41,7 +41,7 @@ build/ST/STM32469IDISCO/target/bsp/source/vendor/STM32469I-Discovery/stm32469i_d
  target/bsp/source/vendor/STM32469I-Discovery/../Components/otm8009a/otm8009a.h \
  target/bsp/source/vendor/STM32469I-Discovery/stm32469i_discovery_sdram.h \
  target/bsp/source/vendor/STM32469I-Discovery/../Components/ft6x06/ft6x06.h \
- target/bsp/source/vendor/STM32469I-Discovery/../Components/ft6x06/../Common/ts.h
+ d:\git\stm32\stmf4discolcd\target\bsp\source\vendor\components\common\ts.h
 
 target/bsp/source/vendor/STM32469I-Discovery/stm32469i_discovery_ts.h:
 
@@ -125,4 +125,4 @@ target/bsp/source/vendor/STM32469I-Discovery/stm32469i_discovery_sdram.h:
 
 target/bsp/source/vendor/STM32469I-Discovery/../Components/ft6x06/ft6x06.h:
 
-target/bsp/source/vendor/STM32469I-Discovery/../Components/ft6x06/../Common/ts.h:
+d:\git\stm32\stmf4discolcd\target\bsp\source\vendor\components\common\ts.h:

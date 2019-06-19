@@ -412,7 +412,7 @@ Discarded input sections
                 0x0000000000000000       0x38 build/ST/STM32469IDISCO/target/os/FreeRTOS7.6.0/Source/croutine.o
  .debug_ranges  0x0000000000000000       0x88 build/ST/STM32469IDISCO/target/os/FreeRTOS7.6.0/Source/croutine.o
  .debug_line    0x0000000000000000      0x36a build/ST/STM32469IDISCO/target/os/FreeRTOS7.6.0/Source/croutine.o
- .debug_str     0x0000000000000000      0x60e build/ST/STM32469IDISCO/target/os/FreeRTOS7.6.0/Source/croutine.o
+ .debug_str     0x0000000000000000      0x5ee build/ST/STM32469IDISCO/target/os/FreeRTOS7.6.0/Source/croutine.o
  .comment       0x0000000000000000       0x7c build/ST/STM32469IDISCO/target/os/FreeRTOS7.6.0/Source/croutine.o
  .debug_frame   0x0000000000000000       0xb8 build/ST/STM32469IDISCO/target/os/FreeRTOS7.6.0/Source/croutine.o
  .ARM.attributes
@@ -505,7 +505,7 @@ Discarded input sections
  .debug_aranges
                 0x0000000000000000       0x18 build/ST/STM32469IDISCO/target/os/FreeRTOS7.6.0/Source/timers.o
  .debug_line    0x0000000000000000      0x2b2 build/ST/STM32469IDISCO/target/os/FreeRTOS7.6.0/Source/timers.o
- .debug_str     0x0000000000000000      0x615 build/ST/STM32469IDISCO/target/os/FreeRTOS7.6.0/Source/timers.o
+ .debug_str     0x0000000000000000      0x5f5 build/ST/STM32469IDISCO/target/os/FreeRTOS7.6.0/Source/timers.o
  .comment       0x0000000000000000       0x7c build/ST/STM32469IDISCO/target/os/FreeRTOS7.6.0/Source/timers.o
  .ARM.attributes
                 0x0000000000000000       0x37 build/ST/STM32469IDISCO/target/os/FreeRTOS7.6.0/Source/timers.o
@@ -797,7 +797,7 @@ Discarded input sections
                 0x0000000000000000       0x30 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma_ex.o
  .debug_ranges  0x0000000000000000       0x20 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma_ex.o
  .debug_line    0x0000000000000000      0x48b build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma_ex.o
- .debug_str     0x0000000000000000      0xa21 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma_ex.o
+ .debug_str     0x0000000000000000      0xa01 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma_ex.o
  .comment       0x0000000000000000       0x7c build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma_ex.o
  .debug_frame   0x0000000000000000       0x58 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma_ex.o
  .ARM.attributes
@@ -945,7 +945,7 @@ Discarded input sections
                 0x0000000000000000       0x28 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_ltdc_ex.o
  .debug_ranges  0x0000000000000000       0x18 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_ltdc_ex.o
  .debug_line    0x0000000000000000      0x417 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_ltdc_ex.o
- .debug_str     0x0000000000000000      0xc30 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_ltdc_ex.o
+ .debug_str     0x0000000000000000      0xc10 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_ltdc_ex.o
  .comment       0x0000000000000000       0x7c build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_ltdc_ex.o
  .debug_frame   0x0000000000000000       0x30 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_ltdc_ex.o
  .ARM.attributes
@@ -1211,7 +1211,7 @@ Discarded input sections
  .debug_aranges
                 0x0000000000000000       0x18 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_ll_fsmc.o
  .debug_line    0x0000000000000000      0x2ec build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_ll_fsmc.o
- .debug_str     0x0000000000000000      0x664 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_ll_fsmc.o
+ .debug_str     0x0000000000000000      0x644 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_ll_fsmc.o
  .comment       0x0000000000000000       0x7c build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_ll_fsmc.o
  .ARM.attributes
                 0x0000000000000000       0x37 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_ll_fsmc.o
@@ -5681,7 +5681,7 @@ TextFlashSection
  .debug_abbrev  0x000000000000eefd       0xfc c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-lock.o)
  .debug_abbrev  0x000000000000eff9      0x27f c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-reent.o)
 
-.debug_line     0x0000000000000000    0x1922c
+.debug_line     0x0000000000000000    0x19220
  *(.debug_line)
  .debug_line    0x0000000000000000      0x741 build/ST/STM32469IDISCO/gui/src/screen1_screen/Screen1Presenter.o
  .debug_line    0x0000000000000741      0x8f5 build/ST/STM32469IDISCO/gui/src/screen1_screen/Screen1View.o
@@ -5708,55 +5708,55 @@ TextFlashSection
  .debug_line    0x000000000000660f      0x67e build/ST/STM32469IDISCO/target/os/FreeRTOS7.6.0/OSWrappers.o
  .debug_line    0x0000000000006c8d      0x563 build/ST/STM32469IDISCO/target/gcc/gccstubs.o
  .debug_line    0x00000000000071f0      0x586 build/ST/STM32469IDISCO/target/main.o
- .debug_line    0x0000000000007776      0x5b1 build/ST/STM32469IDISCO/target/bsp/source/bsp/OTM8009TouchController.o
- .debug_line    0x0000000000007d27      0xa8c build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4DMA.o
- .debug_line    0x00000000000087b3      0xaf2 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4HAL_DSI.o
- .debug_line    0x00000000000092a5      0x605 build/ST/STM32469IDISCO/target/bsp/source/platform/cortex-m/CortexMMCUInstrumentation.o
- .debug_line    0x00000000000098aa      0x3e9 build/ST/STM32469IDISCO/target/bsp/source/bsp/KeySampler.o
- .debug_line    0x0000000000009c93      0x3af build/ST/STM32469IDISCO/target/bsp/source/bsp/Buttons.o
- .debug_line    0x000000000000a042     0x14ea build/ST/STM32469IDISCO/target/bsp/source/BoardConfiguration.o
- .debug_line    0x000000000000b52c      0x408 build/ST/STM32469IDISCO/target/bsp/source/GPIO.o
- .debug_line    0x000000000000b934      0x3d6 build/ST/STM32469IDISCO/target/os/FreeRTOS7.6.0/Source/list.o
- .debug_line    0x000000000000bd0a      0x7b6 build/ST/STM32469IDISCO/target/os/FreeRTOS7.6.0/Source/queue.o
- .debug_line    0x000000000000c4c0      0xa2d build/ST/STM32469IDISCO/target/os/FreeRTOS7.6.0/Source/tasks.o
- .debug_line    0x000000000000ceed      0x3cf build/ST/STM32469IDISCO/target/os/FreeRTOS7.6.0/Source/portable/MemMang/heap_2.o
- .debug_line    0x000000000000d2bc      0x3c9 build/ST/STM32469IDISCO/target/os/FreeRTOS7.6.0/Source/portable/GCC/ARM_CM4F/port.o
- .debug_line    0x000000000000d685       0xe0 build/ST/STM32469IDISCO/target/gcc/isr.o
- .debug_line    0x000000000000d765      0x6e8 build/ST/STM32469IDISCO/target/bsp/source/vendor/STM32469I-Discovery/stm32469i_discovery.o
- .debug_line    0x000000000000de4d      0x78d build/ST/STM32469IDISCO/target/bsp/source/vendor/STM32469I-Discovery/stm32469i_discovery_lcd.o
- .debug_line    0x000000000000e5da      0x6b9 build/ST/STM32469IDISCO/target/bsp/source/vendor/STM32469I-Discovery/stm32469i_discovery_qspi.o
- .debug_line    0x000000000000ec93      0x59d build/ST/STM32469IDISCO/target/bsp/source/vendor/STM32469I-Discovery/stm32469i_discovery_sdram.o
- .debug_line    0x000000000000f230      0x574 build/ST/STM32469IDISCO/target/bsp/source/vendor/STM32469I-Discovery/stm32469i_discovery_ts.o
- .debug_line    0x000000000000f7a4      0x2eb build/ST/STM32469IDISCO/target/bsp/source/vendor/Components/ft6x06/ft6x06.o
- .debug_line    0x000000000000fa8f      0x283 build/ST/STM32469IDISCO/target/bsp/source/vendor/Components/otm8009a/otm8009a.o
- .debug_line    0x000000000000fd12      0x60b build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal.o
- .debug_line    0x000000000001031d      0x610 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_cortex.o
- .debug_line    0x000000000001092d      0x68f build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma.o
- .debug_line    0x0000000000010fbc      0x7ad build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma2d.o
- .debug_line    0x0000000000011769      0x5c8 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_gpio.o
- .debug_line    0x0000000000011d31     0x1196 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_i2c.o
- .debug_line    0x0000000000012ec7      0x9f1 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_ltdc.o
- .debug_line    0x00000000000138b8      0x8ee build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_qspi.o
- .debug_line    0x00000000000141a6      0xea9 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_dsi.o
- .debug_line    0x000000000001504f      0x607 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr_ex.o
- .debug_line    0x0000000000015656      0x7e2 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc.o
- .debug_line    0x0000000000015e38      0x8c0 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc_ex.o
- .debug_line    0x00000000000166f8      0x6f3 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_sdram.o
- .debug_line    0x0000000000016deb      0x67b build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_ll_fmc.o
- .debug_line    0x0000000000017466      0x2a1 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/CMSIS/system_stm32f4xx.o
- .debug_line    0x0000000000017707      0x20b c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-malloc.o)
- .debug_line    0x0000000000017912      0x3cb c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-mallocr.o)
- .debug_line    0x0000000000017cdd      0x1f7 c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-memcmp.o)
- .debug_line    0x0000000000017ed4      0x205 c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-memcpy-stub.o)
- .debug_line    0x00000000000180d9      0x28f c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-memset.o)
- .debug_line    0x0000000000018368      0x1fc c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-mlock.o)
- .debug_line    0x0000000000018564      0x203 c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-sbrkr.o)
- .debug_line    0x0000000000018767      0x1a7 c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-sysconf.o)
- .debug_line    0x000000000001890e      0x191 c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-errno.o)
- .debug_line    0x0000000000018a9f      0x2dd c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-freer.o)
- .debug_line    0x0000000000018d7c      0x177 c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-impure.o)
- .debug_line    0x0000000000018ef3      0x106 c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-lock.o)
- .debug_line    0x0000000000018ff9      0x233 c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-reent.o)
+ .debug_line    0x0000000000007776      0x5ab build/ST/STM32469IDISCO/target/bsp/source/bsp/OTM8009TouchController.o
+ .debug_line    0x0000000000007d21      0xa8c build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4DMA.o
+ .debug_line    0x00000000000087ad      0xaf2 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4HAL_DSI.o
+ .debug_line    0x000000000000929f      0x605 build/ST/STM32469IDISCO/target/bsp/source/platform/cortex-m/CortexMMCUInstrumentation.o
+ .debug_line    0x00000000000098a4      0x3e9 build/ST/STM32469IDISCO/target/bsp/source/bsp/KeySampler.o
+ .debug_line    0x0000000000009c8d      0x3af build/ST/STM32469IDISCO/target/bsp/source/bsp/Buttons.o
+ .debug_line    0x000000000000a03c     0x14ea build/ST/STM32469IDISCO/target/bsp/source/BoardConfiguration.o
+ .debug_line    0x000000000000b526      0x408 build/ST/STM32469IDISCO/target/bsp/source/GPIO.o
+ .debug_line    0x000000000000b92e      0x3d6 build/ST/STM32469IDISCO/target/os/FreeRTOS7.6.0/Source/list.o
+ .debug_line    0x000000000000bd04      0x7b6 build/ST/STM32469IDISCO/target/os/FreeRTOS7.6.0/Source/queue.o
+ .debug_line    0x000000000000c4ba      0xa2d build/ST/STM32469IDISCO/target/os/FreeRTOS7.6.0/Source/tasks.o
+ .debug_line    0x000000000000cee7      0x3cf build/ST/STM32469IDISCO/target/os/FreeRTOS7.6.0/Source/portable/MemMang/heap_2.o
+ .debug_line    0x000000000000d2b6      0x3c9 build/ST/STM32469IDISCO/target/os/FreeRTOS7.6.0/Source/portable/GCC/ARM_CM4F/port.o
+ .debug_line    0x000000000000d67f       0xe0 build/ST/STM32469IDISCO/target/gcc/isr.o
+ .debug_line    0x000000000000d75f      0x6e8 build/ST/STM32469IDISCO/target/bsp/source/vendor/STM32469I-Discovery/stm32469i_discovery.o
+ .debug_line    0x000000000000de47      0x78d build/ST/STM32469IDISCO/target/bsp/source/vendor/STM32469I-Discovery/stm32469i_discovery_lcd.o
+ .debug_line    0x000000000000e5d4      0x6b9 build/ST/STM32469IDISCO/target/bsp/source/vendor/STM32469I-Discovery/stm32469i_discovery_qspi.o
+ .debug_line    0x000000000000ec8d      0x59d build/ST/STM32469IDISCO/target/bsp/source/vendor/STM32469I-Discovery/stm32469i_discovery_sdram.o
+ .debug_line    0x000000000000f22a      0x56e build/ST/STM32469IDISCO/target/bsp/source/vendor/STM32469I-Discovery/stm32469i_discovery_ts.o
+ .debug_line    0x000000000000f798      0x2eb build/ST/STM32469IDISCO/target/bsp/source/vendor/Components/ft6x06/ft6x06.o
+ .debug_line    0x000000000000fa83      0x283 build/ST/STM32469IDISCO/target/bsp/source/vendor/Components/otm8009a/otm8009a.o
+ .debug_line    0x000000000000fd06      0x60b build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal.o
+ .debug_line    0x0000000000010311      0x610 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_cortex.o
+ .debug_line    0x0000000000010921      0x68f build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma.o
+ .debug_line    0x0000000000010fb0      0x7ad build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma2d.o
+ .debug_line    0x000000000001175d      0x5c8 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_gpio.o
+ .debug_line    0x0000000000011d25     0x1196 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_i2c.o
+ .debug_line    0x0000000000012ebb      0x9f1 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_ltdc.o
+ .debug_line    0x00000000000138ac      0x8ee build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_qspi.o
+ .debug_line    0x000000000001419a      0xea9 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_dsi.o
+ .debug_line    0x0000000000015043      0x607 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr_ex.o
+ .debug_line    0x000000000001564a      0x7e2 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc.o
+ .debug_line    0x0000000000015e2c      0x8c0 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc_ex.o
+ .debug_line    0x00000000000166ec      0x6f3 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_sdram.o
+ .debug_line    0x0000000000016ddf      0x67b build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_ll_fmc.o
+ .debug_line    0x000000000001745a      0x2a1 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/CMSIS/system_stm32f4xx.o
+ .debug_line    0x00000000000176fb      0x20b c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-malloc.o)
+ .debug_line    0x0000000000017906      0x3cb c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-mallocr.o)
+ .debug_line    0x0000000000017cd1      0x1f7 c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-memcmp.o)
+ .debug_line    0x0000000000017ec8      0x205 c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-memcpy-stub.o)
+ .debug_line    0x00000000000180cd      0x28f c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-memset.o)
+ .debug_line    0x000000000001835c      0x1fc c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-mlock.o)
+ .debug_line    0x0000000000018558      0x203 c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-sbrkr.o)
+ .debug_line    0x000000000001875b      0x1a7 c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-sysconf.o)
+ .debug_line    0x0000000000018902      0x191 c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-errno.o)
+ .debug_line    0x0000000000018a93      0x2dd c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-freer.o)
+ .debug_line    0x0000000000018d70      0x177 c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-impure.o)
+ .debug_line    0x0000000000018ee7      0x106 c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-lock.o)
+ .debug_line    0x0000000000018fed      0x233 c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-reent.o)
 
 .debug_frame    0x0000000000000000     0x524c
  *(.debug_frame)
@@ -5826,155 +5826,155 @@ TextFlashSection
  .debug_frame   0x0000000000005140       0xb0 c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-lock.o)
  .debug_frame   0x00000000000051f0       0x5c c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-reent.o)
 
-.debug_str      0x0000000000000000    0x13010
+.debug_str      0x0000000000000000    0x12ff0
  *(.debug_str)
- .debug_str     0x0000000000000000      0xabc build/ST/STM32469IDISCO/gui/src/screen1_screen/Screen1Presenter.o
-                                        0xb88 (size before relaxing)
- .debug_str     0x0000000000000abc     0x1a16 build/ST/STM32469IDISCO/gui/src/screen1_screen/Screen1View.o
-                                       0x22a7 (size before relaxing)
- .debug_str     0x00000000000024d2       0x26 build/ST/STM32469IDISCO/gui/src/model/Model.o
-                                        0x45d (size before relaxing)
- .debug_str     0x00000000000024f8      0x996 build/ST/STM32469IDISCO/gui/src/common/FrontendApplication.o
-                                       0x1e65 (size before relaxing)
- .debug_str     0x0000000000002e8e      0xc52 build/ST/STM32469IDISCO/generated/gui_generated/src/screen1_screen/Screen1ViewBase.o
-                                       0x3588 (size before relaxing)
- .debug_str     0x0000000000003ae0     0x1566 build/ST/STM32469IDISCO/generated/gui_generated/src/common/FrontendApplicationBase.o
-                                       0x4357 (size before relaxing)
- .debug_str     0x0000000000005046      0x509 build/ST/STM32469IDISCO/generated/fonts/src/Kerning_verdana_10_4bpp.o
-                                        0x849 (size before relaxing)
- .debug_str     0x000000000000554f       0x46 build/ST/STM32469IDISCO/generated/fonts/src/Font_verdana_40_4bpp.o
-                                        0x343 (size before relaxing)
- .debug_str     0x0000000000005595      0x4ca build/ST/STM32469IDISCO/generated/fonts/src/FontGetters.o
-                                        0xdc2 (size before relaxing)
- .debug_str     0x0000000000005a5f       0x2d build/ST/STM32469IDISCO/generated/fonts/src/Font_verdana_20_4bpp.o
-                                        0x343 (size before relaxing)
- .debug_str     0x0000000000005a8c       0x30 build/ST/STM32469IDISCO/generated/fonts/src/Kerning_verdana_40_4bpp.o
-                                        0x849 (size before relaxing)
- .debug_str     0x0000000000005abc       0xbb build/ST/STM32469IDISCO/generated/fonts/src/Table_verdana_10_4bpp.o
-                                        0x93a (size before relaxing)
- .debug_str     0x0000000000005b77       0x30 build/ST/STM32469IDISCO/generated/fonts/src/Kerning_verdana_20_4bpp.o
-                                        0x849 (size before relaxing)
- .debug_str     0x0000000000005ba7       0x2d build/ST/STM32469IDISCO/generated/fonts/src/Font_verdana_10_4bpp.o
-                                        0x343 (size before relaxing)
- .debug_str     0x0000000000005bd4       0x2e build/ST/STM32469IDISCO/generated/fonts/src/Table_verdana_40_4bpp.o
-                                        0x93a (size before relaxing)
- .debug_str     0x0000000000005c02       0x2e build/ST/STM32469IDISCO/generated/fonts/src/Table_verdana_20_4bpp.o
-                                        0x93a (size before relaxing)
- .debug_str     0x0000000000005c30      0x18c build/ST/STM32469IDISCO/generated/fonts/src/ApplicationFontProvider.o
-                                        0xb1b (size before relaxing)
- .debug_str     0x0000000000005dbc       0x61 build/ST/STM32469IDISCO/generated/images/src/__designer/blue_buttons_round_edge_small.o
-                                        0x1e3 (size before relaxing)
- .debug_str     0x0000000000005e1d       0x71 build/ST/STM32469IDISCO/generated/images/src/__designer/blue_buttons_round_edge_small_pressed.o
-                                        0x1f3 (size before relaxing)
- .debug_str     0x0000000000005e8e       0x92 build/ST/STM32469IDISCO/generated/images/src/BitmapDatabase.o
-                                        0xe2c (size before relaxing)
- .debug_str     0x0000000000005f20      0x46b build/ST/STM32469IDISCO/generated/texts/src/TypedTextDatabase.o
-                                        0xe1e (size before relaxing)
- .debug_str     0x000000000000638b     0x1162 build/ST/STM32469IDISCO/generated/texts/src/Texts.o
-                                       0x28f9 (size before relaxing)
- .debug_str     0x00000000000074ed      0x3d4 build/ST/STM32469IDISCO/target/os/FreeRTOS7.6.0/OSWrappers.o
-                                        0x75f (size before relaxing)
- .debug_str     0x00000000000078c1      0x50d build/ST/STM32469IDISCO/target/gcc/gccstubs.o
-                                        0x83d (size before relaxing)
- .debug_str     0x0000000000007dce       0x96 build/ST/STM32469IDISCO/target/main.o
-                                        0x471 (size before relaxing)
- .debug_str     0x0000000000007e64      0x551 build/ST/STM32469IDISCO/target/bsp/source/bsp/OTM8009TouchController.o
-                                        0xe32 (size before relaxing)
- .debug_str     0x00000000000083b5      0xe60 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4DMA.o
-                                       0x3900 (size before relaxing)
- .debug_str     0x0000000000009215      0xc75 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4HAL_DSI.o
-                                       0x40aa (size before relaxing)
- .debug_str     0x0000000000009e8a      0x402 build/ST/STM32469IDISCO/target/bsp/source/platform/cortex-m/CortexMMCUInstrumentation.o
-                                        0x7ec (size before relaxing)
- .debug_str     0x000000000000a28c      0x29e build/ST/STM32469IDISCO/target/bsp/source/bsp/KeySampler.o
-                                        0xa05 (size before relaxing)
- .debug_str     0x000000000000a52a       0x94 build/ST/STM32469IDISCO/target/bsp/source/bsp/Buttons.o
-                                        0x74e (size before relaxing)
- .debug_str     0x000000000000a5be     0x1a3c build/ST/STM32469IDISCO/target/bsp/source/BoardConfiguration.o
-                                       0x8c45 (size before relaxing)
- .debug_str     0x000000000000bffa       0x49 build/ST/STM32469IDISCO/target/bsp/source/GPIO.o
-                                        0x8a9 (size before relaxing)
- .debug_str     0x000000000000c043      0x26e build/ST/STM32469IDISCO/target/os/FreeRTOS7.6.0/Source/list.o
-                                        0x745 (size before relaxing)
- .debug_str     0x000000000000c2b1      0x5c1 build/ST/STM32469IDISCO/target/os/FreeRTOS7.6.0/Source/queue.o
-                                        0xd09 (size before relaxing)
- .debug_str     0x000000000000c872      0x7f2 build/ST/STM32469IDISCO/target/os/FreeRTOS7.6.0/Source/tasks.o
-                                       0x1164 (size before relaxing)
- .debug_str     0x000000000000d064      0x155 build/ST/STM32469IDISCO/target/os/FreeRTOS7.6.0/Source/portable/MemMang/heap_2.o
-                                        0x7a7 (size before relaxing)
- .debug_str     0x000000000000d1b9      0x17a build/ST/STM32469IDISCO/target/os/FreeRTOS7.6.0/Source/portable/GCC/ARM_CM4F/port.o
-                                        0x496 (size before relaxing)
- .debug_str     0x000000000000d333      0x7f7 build/ST/STM32469IDISCO/target/gcc/isr.o
-                                        0x998 (size before relaxing)
- .debug_str     0x000000000000db2a      0x778 build/ST/STM32469IDISCO/target/bsp/source/vendor/STM32469I-Discovery/stm32469i_discovery.o
-                                       0x16a3 (size before relaxing)
- .debug_str     0x000000000000e2a2      0x5c6 build/ST/STM32469IDISCO/target/bsp/source/vendor/STM32469I-Discovery/stm32469i_discovery_lcd.o
-                                       0x1dee (size before relaxing)
- .debug_str     0x000000000000e868      0x593 build/ST/STM32469IDISCO/target/bsp/source/vendor/STM32469I-Discovery/stm32469i_discovery_qspi.o
-                                       0x1651 (size before relaxing)
- .debug_str     0x000000000000edfb      0x4a5 build/ST/STM32469IDISCO/target/bsp/source/vendor/STM32469I-Discovery/stm32469i_discovery_sdram.o
-                                       0x152f (size before relaxing)
- .debug_str     0x000000000000f2a0      0x1ba build/ST/STM32469IDISCO/target/bsp/source/vendor/STM32469I-Discovery/stm32469i_discovery_ts.o
-                                       0x126a (size before relaxing)
- .debug_str     0x000000000000f45a      0x197 build/ST/STM32469IDISCO/target/bsp/source/vendor/Components/ft6x06/ft6x06.o
-                                        0x46b (size before relaxing)
- .debug_str     0x000000000000f5f1      0x464 build/ST/STM32469IDISCO/target/bsp/source/vendor/Components/otm8009a/otm8009a.o
-                                        0x6cc (size before relaxing)
- .debug_str     0x000000000000fa55      0x2ce build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal.o
-                                       0x1003 (size before relaxing)
- .debug_str     0x000000000000fd23      0x2ed build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_cortex.o
-                                       0x10ed (size before relaxing)
- .debug_str     0x0000000000010010      0x18d build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma.o
-                                        0xaf2 (size before relaxing)
- .debug_str     0x000000000001019d      0x1f2 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma2d.o
-                                        0xb3d (size before relaxing)
- .debug_str     0x000000000001038f      0x116 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_gpio.o
-                                        0x993 (size before relaxing)
- .debug_str     0x00000000000104a5      0x555 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_i2c.o
-                                       0x1112 (size before relaxing)
- .debug_str     0x00000000000109fa      0x1cc build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_ltdc.o
-                                        0xc8e (size before relaxing)
- .debug_str     0x0000000000010bc6      0x2f1 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_qspi.o
-                                       0x1016 (size before relaxing)
- .debug_str     0x0000000000010eb7      0x557 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_dsi.o
-                                       0x147c (size before relaxing)
- .debug_str     0x000000000001140e      0x1c3 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr_ex.o
-                                        0x9fd (size before relaxing)
- .debug_str     0x00000000000115d1      0x18d build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc.o
-                                        0xb69 (size before relaxing)
- .debug_str     0x000000000001175e       0xbe build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc_ex.o
-                                        0xa8e (size before relaxing)
- .debug_str     0x000000000001181c      0x2dc build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_sdram.o
-                                        0xf47 (size before relaxing)
- .debug_str     0x0000000000011af8      0x3f4 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_ll_fmc.o
-                                        0xd44 (size before relaxing)
- .debug_str     0x0000000000011eec       0x68 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/CMSIS/system_stm32f4xx.o
-                                        0x432 (size before relaxing)
- .debug_str     0x0000000000011f54      0x21b c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-malloc.o)
+ .debug_str     0x0000000000000000      0xa9c build/ST/STM32469IDISCO/gui/src/screen1_screen/Screen1Presenter.o
+                                        0xb68 (size before relaxing)
+ .debug_str     0x0000000000000a9c     0x1a16 build/ST/STM32469IDISCO/gui/src/screen1_screen/Screen1View.o
+                                       0x2287 (size before relaxing)
+ .debug_str     0x00000000000024b2       0x26 build/ST/STM32469IDISCO/gui/src/model/Model.o
+                                        0x43d (size before relaxing)
+ .debug_str     0x00000000000024d8      0x996 build/ST/STM32469IDISCO/gui/src/common/FrontendApplication.o
+                                       0x1e45 (size before relaxing)
+ .debug_str     0x0000000000002e6e      0xc52 build/ST/STM32469IDISCO/generated/gui_generated/src/screen1_screen/Screen1ViewBase.o
+                                       0x3568 (size before relaxing)
+ .debug_str     0x0000000000003ac0     0x1566 build/ST/STM32469IDISCO/generated/gui_generated/src/common/FrontendApplicationBase.o
+                                       0x4337 (size before relaxing)
+ .debug_str     0x0000000000005026      0x509 build/ST/STM32469IDISCO/generated/fonts/src/Kerning_verdana_10_4bpp.o
+                                        0x829 (size before relaxing)
+ .debug_str     0x000000000000552f       0x46 build/ST/STM32469IDISCO/generated/fonts/src/Font_verdana_40_4bpp.o
+                                        0x323 (size before relaxing)
+ .debug_str     0x0000000000005575      0x4ca build/ST/STM32469IDISCO/generated/fonts/src/FontGetters.o
+                                        0xda2 (size before relaxing)
+ .debug_str     0x0000000000005a3f       0x2d build/ST/STM32469IDISCO/generated/fonts/src/Font_verdana_20_4bpp.o
+                                        0x323 (size before relaxing)
+ .debug_str     0x0000000000005a6c       0x30 build/ST/STM32469IDISCO/generated/fonts/src/Kerning_verdana_40_4bpp.o
+                                        0x829 (size before relaxing)
+ .debug_str     0x0000000000005a9c       0xbb build/ST/STM32469IDISCO/generated/fonts/src/Table_verdana_10_4bpp.o
+                                        0x91a (size before relaxing)
+ .debug_str     0x0000000000005b57       0x30 build/ST/STM32469IDISCO/generated/fonts/src/Kerning_verdana_20_4bpp.o
+                                        0x829 (size before relaxing)
+ .debug_str     0x0000000000005b87       0x2d build/ST/STM32469IDISCO/generated/fonts/src/Font_verdana_10_4bpp.o
+                                        0x323 (size before relaxing)
+ .debug_str     0x0000000000005bb4       0x2e build/ST/STM32469IDISCO/generated/fonts/src/Table_verdana_40_4bpp.o
+                                        0x91a (size before relaxing)
+ .debug_str     0x0000000000005be2       0x2e build/ST/STM32469IDISCO/generated/fonts/src/Table_verdana_20_4bpp.o
+                                        0x91a (size before relaxing)
+ .debug_str     0x0000000000005c10      0x18c build/ST/STM32469IDISCO/generated/fonts/src/ApplicationFontProvider.o
+                                        0xafb (size before relaxing)
+ .debug_str     0x0000000000005d9c       0x61 build/ST/STM32469IDISCO/generated/images/src/__designer/blue_buttons_round_edge_small.o
+                                        0x1c3 (size before relaxing)
+ .debug_str     0x0000000000005dfd       0x71 build/ST/STM32469IDISCO/generated/images/src/__designer/blue_buttons_round_edge_small_pressed.o
+                                        0x1d3 (size before relaxing)
+ .debug_str     0x0000000000005e6e       0x92 build/ST/STM32469IDISCO/generated/images/src/BitmapDatabase.o
+                                        0xe0c (size before relaxing)
+ .debug_str     0x0000000000005f00      0x46b build/ST/STM32469IDISCO/generated/texts/src/TypedTextDatabase.o
+                                        0xdfe (size before relaxing)
+ .debug_str     0x000000000000636b     0x1162 build/ST/STM32469IDISCO/generated/texts/src/Texts.o
+                                       0x28d9 (size before relaxing)
+ .debug_str     0x00000000000074cd      0x3d4 build/ST/STM32469IDISCO/target/os/FreeRTOS7.6.0/OSWrappers.o
+                                        0x73f (size before relaxing)
+ .debug_str     0x00000000000078a1      0x50d build/ST/STM32469IDISCO/target/gcc/gccstubs.o
+                                        0x81d (size before relaxing)
+ .debug_str     0x0000000000007dae       0x96 build/ST/STM32469IDISCO/target/main.o
+                                        0x451 (size before relaxing)
+ .debug_str     0x0000000000007e44      0x551 build/ST/STM32469IDISCO/target/bsp/source/bsp/OTM8009TouchController.o
+                                        0xe12 (size before relaxing)
+ .debug_str     0x0000000000008395      0xe60 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4DMA.o
+                                       0x38e0 (size before relaxing)
+ .debug_str     0x00000000000091f5      0xc75 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4HAL_DSI.o
+                                       0x408a (size before relaxing)
+ .debug_str     0x0000000000009e6a      0x402 build/ST/STM32469IDISCO/target/bsp/source/platform/cortex-m/CortexMMCUInstrumentation.o
+                                        0x7cc (size before relaxing)
+ .debug_str     0x000000000000a26c      0x29e build/ST/STM32469IDISCO/target/bsp/source/bsp/KeySampler.o
+                                        0x9e5 (size before relaxing)
+ .debug_str     0x000000000000a50a       0x94 build/ST/STM32469IDISCO/target/bsp/source/bsp/Buttons.o
+                                        0x72e (size before relaxing)
+ .debug_str     0x000000000000a59e     0x1a3c build/ST/STM32469IDISCO/target/bsp/source/BoardConfiguration.o
+                                       0x8c25 (size before relaxing)
+ .debug_str     0x000000000000bfda       0x49 build/ST/STM32469IDISCO/target/bsp/source/GPIO.o
+                                        0x889 (size before relaxing)
+ .debug_str     0x000000000000c023      0x26e build/ST/STM32469IDISCO/target/os/FreeRTOS7.6.0/Source/list.o
+                                        0x725 (size before relaxing)
+ .debug_str     0x000000000000c291      0x5c1 build/ST/STM32469IDISCO/target/os/FreeRTOS7.6.0/Source/queue.o
+                                        0xce9 (size before relaxing)
+ .debug_str     0x000000000000c852      0x7f2 build/ST/STM32469IDISCO/target/os/FreeRTOS7.6.0/Source/tasks.o
+                                       0x1144 (size before relaxing)
+ .debug_str     0x000000000000d044      0x155 build/ST/STM32469IDISCO/target/os/FreeRTOS7.6.0/Source/portable/MemMang/heap_2.o
+                                        0x787 (size before relaxing)
+ .debug_str     0x000000000000d199      0x17a build/ST/STM32469IDISCO/target/os/FreeRTOS7.6.0/Source/portable/GCC/ARM_CM4F/port.o
+                                        0x476 (size before relaxing)
+ .debug_str     0x000000000000d313      0x7f7 build/ST/STM32469IDISCO/target/gcc/isr.o
+                                        0x978 (size before relaxing)
+ .debug_str     0x000000000000db0a      0x778 build/ST/STM32469IDISCO/target/bsp/source/vendor/STM32469I-Discovery/stm32469i_discovery.o
+                                       0x1683 (size before relaxing)
+ .debug_str     0x000000000000e282      0x5c6 build/ST/STM32469IDISCO/target/bsp/source/vendor/STM32469I-Discovery/stm32469i_discovery_lcd.o
+                                       0x1dce (size before relaxing)
+ .debug_str     0x000000000000e848      0x593 build/ST/STM32469IDISCO/target/bsp/source/vendor/STM32469I-Discovery/stm32469i_discovery_qspi.o
+                                       0x1631 (size before relaxing)
+ .debug_str     0x000000000000eddb      0x4a5 build/ST/STM32469IDISCO/target/bsp/source/vendor/STM32469I-Discovery/stm32469i_discovery_sdram.o
+                                       0x150f (size before relaxing)
+ .debug_str     0x000000000000f280      0x1ba build/ST/STM32469IDISCO/target/bsp/source/vendor/STM32469I-Discovery/stm32469i_discovery_ts.o
+                                       0x124a (size before relaxing)
+ .debug_str     0x000000000000f43a      0x197 build/ST/STM32469IDISCO/target/bsp/source/vendor/Components/ft6x06/ft6x06.o
+                                        0x44b (size before relaxing)
+ .debug_str     0x000000000000f5d1      0x464 build/ST/STM32469IDISCO/target/bsp/source/vendor/Components/otm8009a/otm8009a.o
+                                        0x6ac (size before relaxing)
+ .debug_str     0x000000000000fa35      0x2ce build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal.o
+                                        0xfe3 (size before relaxing)
+ .debug_str     0x000000000000fd03      0x2ed build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_cortex.o
+                                       0x10cd (size before relaxing)
+ .debug_str     0x000000000000fff0      0x18d build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma.o
+                                        0xad2 (size before relaxing)
+ .debug_str     0x000000000001017d      0x1f2 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma2d.o
+                                        0xb1d (size before relaxing)
+ .debug_str     0x000000000001036f      0x116 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_gpio.o
+                                        0x973 (size before relaxing)
+ .debug_str     0x0000000000010485      0x555 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_i2c.o
+                                       0x10f2 (size before relaxing)
+ .debug_str     0x00000000000109da      0x1cc build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_ltdc.o
+                                        0xc6e (size before relaxing)
+ .debug_str     0x0000000000010ba6      0x2f1 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_qspi.o
+                                        0xff6 (size before relaxing)
+ .debug_str     0x0000000000010e97      0x557 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_dsi.o
+                                       0x145c (size before relaxing)
+ .debug_str     0x00000000000113ee      0x1c3 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr_ex.o
+                                        0x9dd (size before relaxing)
+ .debug_str     0x00000000000115b1      0x18d build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc.o
+                                        0xb49 (size before relaxing)
+ .debug_str     0x000000000001173e       0xbe build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc_ex.o
+                                        0xa6e (size before relaxing)
+ .debug_str     0x00000000000117fc      0x2dc build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_hal_sdram.o
+                                        0xf27 (size before relaxing)
+ .debug_str     0x0000000000011ad8      0x3f4 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/STM32F4xx_HAL_Driver/stm32f4xx_ll_fmc.o
+                                        0xd24 (size before relaxing)
+ .debug_str     0x0000000000011ecc       0x68 build/ST/STM32469IDISCO/target/bsp/source/platform/hal/mcu/stm32f4cube/CMSIS/system_stm32f4xx.o
+                                        0x412 (size before relaxing)
+ .debug_str     0x0000000000011f34      0x21b c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-malloc.o)
                                         0x6a4 (size before relaxing)
- .debug_str     0x000000000001216f      0x28f c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-mallocr.o)
+ .debug_str     0x000000000001214f      0x28f c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-mallocr.o)
                                         0x8e3 (size before relaxing)
- .debug_str     0x00000000000123fe       0xeb c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-memcmp.o)
+ .debug_str     0x00000000000123de       0xeb c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-memcmp.o)
                                         0x677 (size before relaxing)
- .debug_str     0x00000000000124e9      0x10e c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-memcpy-stub.o)
+ .debug_str     0x00000000000124c9      0x10e c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-memcpy-stub.o)
                                         0x69a (size before relaxing)
- .debug_str     0x00000000000125f7      0x2b6 c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-memset.o)
+ .debug_str     0x00000000000125d7      0x2b6 c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-memset.o)
                                         0x98c (size before relaxing)
- .debug_str     0x00000000000128ad       0xc4 c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-mlock.o)
+ .debug_str     0x000000000001288d       0xc4 c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-mlock.o)
                                         0x703 (size before relaxing)
- .debug_str     0x0000000000012971       0xf7 c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-sbrkr.o)
+ .debug_str     0x0000000000012951       0xf7 c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-sbrkr.o)
                                         0x6b6 (size before relaxing)
- .debug_str     0x0000000000012a68       0xfb c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-sysconf.o)
+ .debug_str     0x0000000000012a48       0xfb c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-sysconf.o)
                                         0x6c5 (size before relaxing)
- .debug_str     0x0000000000012b63       0xe8 c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-errno.o)
+ .debug_str     0x0000000000012b43       0xe8 c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-errno.o)
                                         0x685 (size before relaxing)
- .debug_str     0x0000000000012c4b       0x34 c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-freer.o)
+ .debug_str     0x0000000000012c2b       0x34 c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-freer.o)
                                         0x85c (size before relaxing)
- .debug_str     0x0000000000012c7f       0x6c c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-impure.o)
+ .debug_str     0x0000000000012c5f       0x6c c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-impure.o)
                                         0x673 (size before relaxing)
- .debug_str     0x0000000000012ceb      0x29a c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-lock.o)
+ .debug_str     0x0000000000012ccb      0x29a c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-lock.o)
                                         0x42b (size before relaxing)
- .debug_str     0x0000000000012f85       0x8b c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-reent.o)
+ .debug_str     0x0000000000012f65       0x8b c:/st/stm32cubeide_1.0.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libg.a(lib_a-reent.o)
                                         0x6af (size before relaxing)
 
 .debug_loc      0x0000000000000000    0x11515
