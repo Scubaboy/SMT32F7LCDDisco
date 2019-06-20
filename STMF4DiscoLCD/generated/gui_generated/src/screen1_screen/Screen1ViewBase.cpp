@@ -15,7 +15,7 @@ Screen1ViewBase::Screen1ViewBase()
     button2.setXY(598, 137);
     button2.setBitmaps(Bitmap(BITMAP_BLUE_BUTTONS_ROUND_EDGE_SMALL_ID), Bitmap(BITMAP_BLUE_BUTTONS_ROUND_EDGE_SMALL_PRESSED_ID));
 
-    button3.setXY(598, 272);
+    button3.setXY(598, 222);
     button3.setBitmaps(Bitmap(BITMAP_BLUE_BUTTONS_ROUND_EDGE_SMALL_ID), Bitmap(BITMAP_BLUE_BUTTONS_ROUND_EDGE_SMALL_PRESSED_ID));
 
     add(image1);
